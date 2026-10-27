@@ -189,6 +189,7 @@ This is not an exhaustive list of all remote MCP servers. We maintain high stand
 | Wolfram | Productivity | `https://agenttools.wolfram.com/mcp` | Open | [Wolfram Research](https://www.wolfram.com/) |
 | Unmerge | Design | `https://unmerge.app/mcp` | API Key | [Unmerge](https://unmerge.app) |
 | MakeItSay | Design | `https://makeitsay.com/mcp` | API Key | [MakeItSay](https://makeitsay.com) |
+| Local AI Picks | Software Development | `https://localaipicks.com/mcp` | Open | [Local AI Picks](https://localaipicks.com) |
 
 # Remote MCP Installation Guide
 
